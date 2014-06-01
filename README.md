@@ -4,13 +4,21 @@ Playbook.js is a Javascript American football/gridiron play designer.
 
 ![Playbook.js](http://175.107.149.196/playbook-field.png)
 
-## Dependencies
+## Install
 
 Playbook.js requires Raphael to work. However, Playbook.js is not a Raphael plugin as such. 
 There are a few Raphael plugins in the Playbook.js code, but these are mostly directly 
 related to stuff you'd expect on a football play designer (like using paths as routes etc). 
 If using with require.js or similar, Playbook.js expects Raphael to be mapped to the 'raphael' 
 alias.
+
+The easiest way to get Playbook.js is with bower, via:
+
+`bower install playbook`
+
+Or by cloning this repo:
+
+`git clone https://github.com/ndavison/playbook.js`
 
 ## Usage
 
