@@ -2,6 +2,8 @@
 
 Playbook.js is a Javascript American football/gridiron play designer.
 
+![Playbook.js](http://175.107.149.196/playbook-field.png)
+
 ## Dependencies
 
 Playbook.js requires Raphael to work. However, Playbook.js is not a Raphael plugin as such. 
