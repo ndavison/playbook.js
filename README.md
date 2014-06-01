@@ -14,7 +14,7 @@ alias.
 
 The easiest way to get Playbook.js is with bower, via:
 
-`bower install playbook`
+`bower install playbook.js`
 
 Or by cloning this repo:
 
