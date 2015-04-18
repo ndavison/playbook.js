@@ -2,7 +2,7 @@
 
 Playbook.js is a Javascript American football/gridiron play designer.
 
-![Playbook.js](http://175.107.149.196/playbook-field.png)
+![Playbook.js](http://nathandavison.com/images/playbook-field.png)
 
 ## Install
 
